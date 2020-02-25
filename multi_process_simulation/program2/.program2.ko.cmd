@@ -1,0 +1,1 @@
+cmd_/home/seed/host/source/program2/program2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/seed/host/source/program2/program2.ko /home/seed/host/source/program2/program2.o /home/seed/host/source/program2/program2.mod.o ;  true
